@@ -50,4 +50,3 @@ Medium → High depending on frequency and target.
 ---
 
 ## Notes
-(Add your own learning notes here.)
